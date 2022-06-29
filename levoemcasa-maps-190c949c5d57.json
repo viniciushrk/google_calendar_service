@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "levoemcasa-maps",
+  "private_key_id": "190c949c5d574cb866eabe0cbccc20671178b26f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDl9PaiHQtxEwe\nC9JoO3olN9lZnl//OD9+TmCsqXhzBeEldRYM2TqTIYdtYQSFMpld17usyGatVbWy\nINr9HRVUFIoF8oh/ALIZYNH8+7V9m8qn7akXagpNUYRZi7YeO3RXKli7aRO8CIGj\n8sr763lZNfVRt+kB/pDIEKRqzoQdDLnolLRwdYyUshXAA6hovCk3XIUjpMc+3yQT\nrkE9OPbbagazS0vERhK5wagaCLUfndwHcu2wlDt+lz4Zdqrb/KYvkBiXKCILfYrb\nikSuJwJfuDyKu8wOo6cXBj0cLRCvymdVj8zMk10DHROts78qgN7L6oa10PZikfhp\nkcC0M3hxAgMBAAECggEADofXQo8sGGFSqVHGBB3VDXJIeKayKYb/eo3uky006FCp\nwQthg7tYpWkSg073k8CmUakvBV9O93YcXTshIbg5JymudlImD09ZK9b8Sq/VdBsw\nk0it7PIhCUzyyOc+9KCEnFwmQugDwg6cuPYW29/KwFSooLVJv27uyRopaNDmUjUI\nUZSXTP2jb9T7bbmxMa9XaQTXOvtSA5m42JbMe2ZBhTbjvR5op95PdDeJrThx6JA3\n+9KC5ydadzuWWdmOJGhZCXncrep3kZInic0pz2FJetjgP6N6I87QcOkQxHqZdded\nCHsv6sTlG66dRyMoUJi67S23saSGV/NEj8TNfEVDsQKBgQDlZ7+9nWhhBNZiDAIL\n/6oQL/NTXfekNaONFKjkjvtyYSIolZUUFuD+X41YjA0n2WT87CI52YwYJkzwtlon\n+c9Lz/VxMwuSHxIk/lnlQPjwyMY/dxEEmipLVyrnCAdik3+hDm4IjVtJUZ43zGIJ\nOJBzcpxdG6+ptdQ0Wqp/HCZbuQKBgQDaRJsh1Kvmie8d3Wgo6Ukk7rzSxN8uKTPI\n02ygOQAK0lt7hxaEUyEnugueh5nTIG/DRsXntv84LN6MQAg6lm+UqvuyFvSdfLo1\nvgZKIRP/DEx8vakHgk4ZGvb/Su382jv60E1ZCcSaou6o4/A+HVDCHGxI15JcYmnL\nauLuaH4OeQKBgDDA49cAZPZ5eLZNpwG1zAa0qhnFlqOnYqLRCTPJz1Z3njLR12T1\nl8t3sypmWUVmxjeaV4vD2CopuaBOoMpuJMgP4jG0j3j2cXy7MY+vRzik8rz6KPu5\nZ9OrKsr+wdMJVc58qpXWtNfYKK/jF9Kt2sUuTlzbTXHb2sVln2Z0LRLBAoGAJ3By\nH6DQFu4hmOHi6lGM9/FziRotwaeMReN+I01pZoswIJf+R5bFzOnfI5wY/X9E8qId\nLItyfnINHIaNdhisvM5QgJOJS9O3yfI2LLrhZBqSz49ttX+kIQEwVFzzt9avM9jj\nwQz0y4RZX4cgZ/jgGNMN9fON7MeTmkAMFUwoSvECgYEAksYF8kgZibXOSj71y/AJ\nNe7NYpczMRXZTASpqdluUQ8PprckVz0PX6EDp7vj3N6r42XNVqrERL0v7+ioWtF8\nvkUn7NmevfnqHVpIPH/0g9+ULhEOiP4heJmFG44wbnT7QSvrkOHWgOiM5JnN909h\n0wJv9y6qrdN131ThfVs4ufw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mydaycalendar@levoemcasa-maps.iam.gserviceaccount.com",
+  "client_id": "111573881232514885314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mydaycalendar%40levoemcasa-maps.iam.gserviceaccount.com"
+}
