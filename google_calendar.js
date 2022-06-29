@@ -57,6 +57,26 @@ const dateTimeForCalander = () => {
 };
 
 // Insert new event to Google Calendar
+module.exports.insertEvent = async (event) => {
+
+    try {
+        let response = await calendar.events.insert({
+            auth: auth,
+            calendarId: calendarId,
+            resource: event
+        });
+    
+        if (response['status'] == 200 && response['statusText'] === 'OK') {
+            return 1;
+        } else {
+            return 0;
+        }
+    } catch (error) {
+        console.log(`Error at insertEvent --> ${error}`);
+        return 0;
+    }
+};
+
 const insertEvent = async (event) => {
 
     try {
