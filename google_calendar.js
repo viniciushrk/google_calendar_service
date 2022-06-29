@@ -81,7 +81,7 @@ let dateTime = dateTimeForCalander();
 
 // Event for Google Calendar
 let event = {
-    'summary': `This is the summary.`,
+    'summary': `This is the summar mr day.`,
     'description': `This is the description.`,
     'start': {
         'dateTime': dateTime['start'],
